@@ -6,7 +6,7 @@
 	<name>Layer Groups</name>	
 	<version>1.0</version>
 	<author>JeyDotC</author>
-	<website>https://github.com/JeyDotC/JeyDotc-C2-Extensions</website>
-	<documentation>https://github.com/JeyDotC/JeyDotc-C2-Extensions</documentation>
+	<website>https://github.com/JeyDotC/construct2-layergroups</website>
+	<documentation>https://github.com/JeyDotC/construct2-layergroups</documentation>
 	<description>Allows to create groups layers with these benefits: 1. Collisions for layers in a group will be completely isolated from the ones of other groups. 2. You will be able to perform operations on groups of layers, allowing to change properties like opacity or visibility of all layers in a group at once.</description>
 </c2addon>
