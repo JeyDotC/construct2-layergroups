@@ -1,7 +1,7 @@
 version_xml=$(grep '<version>' info.xml | xargs)
 version_number=${version_xml#"<version>"}
 version_number=${version_number%"</version>"}
-addon_name=$(basename "$PWD")
+addon_name="layergroups"
 
 echo "Building ${addon_name} version ${version_number}";
 
